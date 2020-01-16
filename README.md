@@ -55,4 +55,10 @@ USB
 
 ### 最后  
 不推荐直接套用，只可借鉴  
-如果你有更好的主意，请在我帖子留言，我会主动联系你的。
+如果你有更好的主意，请在我帖子留言，我会主动联系你的。  
+
+如果GITHUB下载速度不行下列地址同步更新中  
+Coding [coding][1], GD [google drive][2], Github [github][3]
+[1]: https://dev.tencent.com/u/bzasy/p/Hackintosh       "coding" 
+[2]: https://noao.cc        "google drive" 
+[2]: https://github.com/bzasy/Hackintosh        "github" 
