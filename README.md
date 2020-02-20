@@ -48,7 +48,10 @@ USB
 1.系统降级为14.6（由于强制64位限制导致插件无法使用，故降级14.6）
 
 #### 1.16更新  
-更新OC版本至0.5.5  
+更新OpenCore版本至0.5.5  
+
+#### 2.20更新  
+更新OpenCore版本至0.5.6  
 
 ### 目前存在的问题  
 未知  
@@ -58,7 +61,6 @@ USB
 如果你有更好的主意，请在我帖子留言，我会主动联系你的。  
 
 如果GITHUB下载速度不行下列地址同步更新中  
-Coding [coding][1], GD [google drive][2], Github [github][3]
-[1]: https://dev.tencent.com/u/bzasy/p/Hackintosh       "coding" 
-[2]: https://noao.cc        "google drive" 
-[2]: https://github.com/bzasy/Hackintosh        "github" 
+[Coding](https://dev.tencent.com/u/bzasy/p/Hackintosh "Coding")  
+[Google Drive](https://noao.cc "Google Drive")  
+[Github](https://github.com/bzasy/Hackintosh "Github")
