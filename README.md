@@ -20,47 +20,17 @@ USB
 硬件加速（已注入FCPX加速ID）  
 睡眠  
 
-### 更新变化  
- 
-#### 5.14日更新  
-1.更换显卡RX580  
-2.初次安装14.4并升级14.5   
-3.精简EFI  
-
-#### 5.23更新  
-1.继续精简EFI。（去掉无用选项）  
-2.找到唤醒原因。（睡眠唤醒需要关掉节能里面的启用电能小憩，也就是darkwake）  
-3.USB3.1GEN2使用原生驱动。（删除内建）  
-
-#### 7.18更新  
-1.更换FackSMC为VirtualSMC  
-2.日常驱动 CLOVER更新  
-
-#### 12.22更新  
-1.系统更新到15.2
-2.日常驱动 CLOVER更新  
-
-#### 12.23更新  
-1.系统更新到15.2
-2.引导已更改为OC  
-
-#### 1.7更新
-1.系统降级为14.6（由于强制64位限制导致插件无法使用，故降级14.6）
-
-#### 1.16更新  
-更新OpenCore版本至0.5.5  
-
-#### 2.20更新  
-更新OpenCore版本至0.5.6  
 
 ### 目前存在的问题  
 未知  
 
 ### 最后  
 不推荐直接套用，只可借鉴  
-如果你有更好的主意，请在我帖子留言，我会主动联系你的。  
+如果你有更好的主意，请留言。
 
 如果GITHUB下载速度不行下列地址同步更新中  
-[Coding](https://dev.tencent.com/u/bzasy/p/Hackintosh "Coding")  
-[Google Drive](https://noao.cc "Google Drive")  
+[Coding](https://bzasy.coding.net/public/Hackintosh/Hackintosh/git/files "Coding")  
+[Google Drive](https://pan.7k.ee "Google Drive")  
+[OneDrive](https://yun.7k.ee "Github")
 [Github](https://github.com/bzasy/Hackintosh "Github")
+
