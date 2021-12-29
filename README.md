@@ -29,7 +29,6 @@ USB
 如果你有更好的主意，请留言。
 
 如果GITHUB下载速度不行下列地址同步更新中  
-[Coding](https://bzasy.coding.net/public/Hackintosh/Hackintosh/git/files "Coding")  
 [OneDrive](https://yun.7k.ee "Github")  
 [Github](https://github.com/bzasy/Hackintosh "Github")
 
