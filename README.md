@@ -32,3 +32,4 @@ USB
 [OneDrive](https://yun.7k.ee "Github")  
 [Github](https://github.com/bzasy/Hackintosh "Github")
 
+11
