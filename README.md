@@ -5,6 +5,13 @@ CPU I7-8700K
 显卡 蓝宝石 RX6600XT 超白8G  
 SMBIOS 19.1  
 
+### 硬件更新  
+1.显卡已更换为6600XT     
+
+### 更新内容  
+#### 2021.12.29  
+更新OC到0.7.6  
+
 ## 特别注意  
 需在BIOS关闭CFG LOCK（MSR 0xe2寄存器）默认开启   
 需自己生成SMBIOS，已经抹掉SN  
@@ -18,8 +25,7 @@ USB
 接力  
 隔空播放  
 硬件加速（已注入FCPX加速ID）  
-睡眠  
-
+睡眠（睡眠测试了两天没什么问题）  
 
 ### 目前存在的问题  
 未知  
@@ -29,7 +35,5 @@ USB
 如果你有更好的主意，请留言。
 
 如果GITHUB下载速度不行下列地址同步更新中  
-[OneDrive](https://yun.7k.ee "Github")  
-[Github](https://github.com/bzasy/Hackintosh "Github")
-
-11
+[OneDrive](https://yun.7k.ee "OneDrive")  
+[Github](https://github.com/bzasy/Hackintosh "Github")  
