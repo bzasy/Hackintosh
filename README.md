@@ -35,5 +35,6 @@ USB
 如果你有更好的主意，请留言。
 
 如果GITHUB下载速度不行下列地址同步更新中  
-各版本EFI压缩包快速下载[OneDrive](https://yun.7k.ee "OneDrive")  
+各版本EFI压缩包快速下载  
+[OneDrive](https://yun.7k.ee "OneDrive")  
 [Github](https://github.com/bzasy/Hackintosh "Github")  
